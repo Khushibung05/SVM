@@ -68,27 +68,6 @@ section[data-testid="stSidebar"] {
     color: white;
 }
 
-/* ===== SIDEBAR LABELS ONLY ===== */
-section[data-testid="stSidebar"] label,
-section[data-testid="stSidebar"] h1,
-section[data-testid="stSidebar"] h2,
-section[data-testid="stSidebar"] h3,
-section[data-testid="stSidebar"] p {
-    color: white !important;
-}
-
-/* ===== INPUT FIELDS FIX (MOST IMPORTANT) ===== */
-section[data-testid="stSidebar"] input,
-section[data-testid="stSidebar"] textarea,
-section[data-testid="stSidebar"] select {
-    color: #000000 !important;           /* text color */
-    background-color: #ffffff !important;
-}
-
-/* Placeholder text */
-section[data-testid="stSidebar"] input::placeholder {
-    color: #666666 !important;
-}
 
 
 /* ===== BUTTON ===== */
